@@ -9,4 +9,107 @@ icsi
 ritx
 gfact
 
+analisis de malware con ghidra
+malware analysis
+
+ser parte de un redteam
+
+pestudio
+process hacker
+procman
+prodot
+autoruns
+fiddler
+wireshark
+x64dbg
+ghidra
+radare2
+cuckoo sandbox
+
+icsharpcode/ilspy
+
+ilspy
+decompile frontends
+dnspy
+net debugger asembly editor
+
+github ghidra
+ghidra
+ghidra releases
+
+//cat sirve para crear un archivo o puede ser el directorio
+cat/etc/os-release
+// name ubuntu 
+// version 20.04.5 LTS
+java --version
+//instalar el jdk
+// sudo convertirse en administrador con privilegios
+// apt gestion de paquetes basados en linux ubuntu o debian
+// apt cache sirve para encontrar paquetes de varias versiones
+sudo apt install openjdk
+sudo apt-cache search openjdk
+sudo apt install  -y openjdk-16-jdk
+ghidra 10.1.5 zip
+open in terminal
+// iniciar ghidra
+./ghidrarun
+file
+//new project
+//project directory
+/home/galoget
+//project name
+red-team-bootcamp
+shared project
+file
+import file
+malware.exe
+cd desktop/
+// file es un comando que realiza una serie de pruebas,describe el archivo por ejemplo
+malware.exe : pe32 executable (gui) intel 80386 for ms windows
+file malware.exe
+malware analysis
+static analysis //examina el archivo indicios de malicioso arhivos
+hibrid analysis // son los dos analisis juntos
+dinamic analysis //executa el malware en modo seguro
+crowdstrike.com
+buscar
+skill
+manual code reversing
+ingenieria inversa
+debuggers - disassemblers - compilers
+malware algorithm
+virustotal.com
+analizar malware.exe
+peid packer microsoft visual c++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
