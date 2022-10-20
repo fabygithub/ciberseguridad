@@ -82,6 +82,45 @@ virustotal.com
 analizar malware.exe
 peid packer microsoft visual c++
 
+modo seguro llamado sandbox
+product soundmax service agent
+imports : kernel32.ddl
+msvcrt.dll
+secur32.dll
+createProcessAsUserA
+spawns proceses
+
+md5sum malware.exe
+
+hash malware :123213asdasd123213
+buscar el hash en google
+
+malware traffic patterns
+mandiant apt1
+cyber espionage units
+madiant apt report pdf
+
+portable executable pe  //es un formato de archivo para archivos ejecutables
+import file // importar archivo
+zerodium // es una empresa estadounidense de seguridad de la información
+vm escape // vm significa virtual machine
+
+nano hello.c //es el editor de texto nativo en sistemas como Ubuntu 
+#include stdio.h //el archivo de cabecera que contiene las definiciones de las macros etc.
+// Cada programa de C tiene una función principal que se debe llamar main
+int main(){
+printf("hola red team bootcamp!"); // imprime un mensaje por pantalla utilizando una “cadena de formato
+return 0; // La instrucción "return" del lenguaje C termina la ejecución de la función y devuelve un valor
+}
+
+gcc hello.c -o hello.elf // El paquete gcc contiene compiladores GNU. Es útil para compilar programas escritos C etc.
+
+
+
+
+
+
+
 
 
 
